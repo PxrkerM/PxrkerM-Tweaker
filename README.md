@@ -1,2 +1,2 @@
-# Revision.pow
-Custom PowerPlan from ReviOS
+# PxrkerM Prem Tweaker Resources
+Resources to download
